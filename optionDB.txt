@@ -1,0 +1,9 @@
+*font: Arial 10
+*Menu*font: Times 16 bold
+*Menu*background:light gray
+*Menu*foreground: white
+*Text*background: white
+*Text*foreground: black
+*Text*font:Monospaced 16
+
+
